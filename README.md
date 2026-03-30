@@ -1,235 +1,152 @@
-# HUMANSAFE – Symbolic Core
+# HUMANSAFE — Symbolic Core
 
-A symbolic language and cellular AI architecture for human-centered safety systems.
+## Overview
 
----
+Humansafe Symbolic Core is the foundational layer of the Humansafe system.
 
-## 🧠 Vision
+It defines a symbolic and modular architecture to interpret human signals
+(biological, emotional, cognitive, relational) and transform them into
+structured meaning, safety evaluation, and actionable guidance.
 
-Humansafe is not just an app.
-
-It is an attempt to build a new computational paradigm:
-a system that interprets **human states**, not just data.
-
-We move from:
-
-* inputs → outputs
-  to:
-* states → transformations → protection → meaning
+This repository represents the origin of the Humansafe ecosystem.
 
 ---
 
-## ⚡ Core Idea
+## Vision
 
-We are building:
+Humansafe is a human-centered intelligence system designed to:
 
-* a **symbolic language** to represent states of existence
-* a **cellular / enzymatic architecture** for computation
-* a **safety-first AI system** designed for real human conditions
+- interpret human state
+- detect imbalance and vulnerability
+- support decision-making
+- activate safety layers when needed
+- enable a new form of human awareness
 
----
-
-## 🔣 Symbolic Language (example)
-
-```
-⧖ ⚡ → q
-```
-
-**Meaning:**
-Trigger → energy → reduction to essential unit
+It does not replace medical or professional systems.
+It supports understanding, continuity, and orientation.
 
 ---
 
-## 🧬 Architecture Overview
+## Core Concept
 
-The system is inspired by biological structures:
+Humansafe introduces a new paradigm:
 
-### Cell (unit)
+**The human is not monitored — the human is interpreted.**
 
-```
-Input → State → Enzyme → Output
-```
-
-### Enzyme (logic)
-
-Transforms symbolic sequences into actions
-
-### Membrane
-
-Filters input/output (privacy + safety)
-
-### Synapse
-
-Connects modules
+Signals become symbols.  
+Symbols become patterns.  
+Patterns become decisions.
 
 ---
 
-## 🧩 System Layers
+## Space Touch
 
-1. **Symbol Input Layer**
+Humansafe enables a new form of exploration:
 
-   * gestures
-   * text
-   * sensor signals
+> the ability to navigate one's internal state as if it were a system.
 
-2. **Symbol Parser**
+Each signal is a coordinate.  
+Each pattern is a trajectory.  
+Each imbalance is an anomaly.
 
-   * converts input into symbolic sequences
-
-3. **Enzymatic Engine**
-
-   * interprets symbols
-   * applies transformation rules
-
-4. **Decision Layer**
-
-   * reduce
-   * connect
-   * protect
-   * alert
-
-5. **Output Layer**
-
-   * UI response
-   * notification
-   * emergency action
+The user becomes an explorer of their own condition.
 
 ---
 
-## 📱 Mobile Implementation
-
-Built with:
-
-* React Native
-* Expo (qpolar-lab project)
-
-This repo connects to a real mobile runtime environment.
+## Repository Structure
 
 ---
 
-## 🧪 Current Status
+## Modules
 
-* Symbolic language v0 (in development)
-* Architecture design defined
-* Mobile container (Expo) active
-* Symbol engine (early prototype) in progress
+### Symbolic Core
+Defines the symbolic language and mapping system used to represent human states.
 
----
+### Script Engine
+Processes signals and computes a unified human state.
 
-## 🚧 First Milestone
-
-**Symbol Engine v0**
-
-Goal:
-
-* parse symbolic input
-* interpret basic states
-* generate minimal output
+### SOS Engine
+Handles safety escalation and emergency logic.
 
 ---
 
-## 🤝 Contribute
+## Current Status
 
-We are looking for:
+Early-stage prototype.
 
-* developers (React Native, AI, systems)
-* researchers (cognitive science, philosophy)
-* designers (UX for emotional safety)
-* thinkers interested in new computational paradigms
+Focus areas:
 
----
-
-## 🌍 Why this matters
-
-Current systems optimize performance.
-
-Humansafe aims to:
-
-* reduce overload
-* interpret emotional states
-* create safe interaction layers
-* prevent escalation before crisis
+- symbolic language definition
+- signal interpretation
+- basic decision engine
+- modular architecture design
 
 ---
 
-## 🧭 Direction
+## Roadmap
 
-From:
-apps
+### Phase 1 — Core Definition
+- symbolic language
+- signal mapping
+- basic engine logic
 
-To:
-**adaptive symbolic systems**
+### Phase 2 — Interpretation Engine
+- unified state computation
+- pattern detection
+- confidence scoring
 
-From:
-interfaces
+### Phase 3 — Safety Layer
+- SOS logic
+- support activation
+- emergency handling
 
-To:
-**cognitive layers**
+### Phase 4 — Integration
+- mobile interface (Expo)
+- wearable input
+- data history
 
----
-
-## 📡 Roadmap (short)
-
-* [ ] Symbolic Language Spec v0.1
-* [ ] Symbol Engine v0
-* [ ] Gesture → Symbol mapping
-* [ ] SOS layered system
-* [ ] Safety profile module
-
----
-
-## 🧊 Future Concept
-
-**Cryo State (Cybertron Hypothesis)**
-
-A system that:
-
-* stays in low-energy latent mode
-* activates instantly on critical input
-* preserves resources while remaining aware
+### Phase 5 — Expansion
+- BioSense (biological signals)
+- Human Twin (predictive model)
+- Access Layer (identity system)
+- Telepresence
 
 ---
 
-## 📁 Structure (planned)
+## Principles
 
-```
-/docs
-  language.md
-  architecture.md
-
-/src
-  /symbolic
-  /engine
-  /ui
-
-/manifesto
-  vision.md
-```
+- human-centered
+- privacy-first
+- non-invasive
+- non-diagnostic
+- transparent logic
+- modular and scalable
 
 ---
 
-## 📬 Contact
+## Disclaimer
 
-[add your contact here]
+Humansafe is not a medical system.
 
----
+It does not provide diagnosis, treatment, or clinical decisions.
 
-## ⚠️ Note
-
-This is an experimental system.
-
-Not medical.
-Not diagnostic.
-
-Human-centered.
-Ethical-first.
+It is an informational and guidance system designed to support awareness and safety.
 
 ---
 
-## 🔥 Final
+## Founder
 
-We are not building another tool.
+Messoud Sebbahi  
+messoud.sebbahi@gmail.com
 
-We are building a **new layer between humans and machines**.
+---
 
-If this resonates with you, contribute.
+## License
+
+MIT License
+
+
+
+
+
+
