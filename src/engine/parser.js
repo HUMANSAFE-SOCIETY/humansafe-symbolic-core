@@ -1,4 +1,4 @@
-import { SYMBOLS } from "../symbolic/dictionary";
+import { SYMBOLS } from "../symbolic/dictionary.js";
 
 export function parse(input) {
   return input.split(" ").map(symbol => {
